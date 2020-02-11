@@ -7,6 +7,7 @@ authors = ["Dhaval Patel <dhaval.dsp@hotmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 flake8 = "^3.7"
+pip = "^20.0"
 
 [tool.poetry.dev-dependencies]
 
